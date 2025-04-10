@@ -44,7 +44,7 @@ Footwear-Carousel/ ├── index.html # Main HTML file
 
 ## 🎥 Demo
 
-![Demo Video](shoe)
+![Demo](shoe.gif)
 
 ---
 
