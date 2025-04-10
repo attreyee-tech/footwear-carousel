@@ -1,4 +1,4 @@
-## 👠 Footwear Carousel — Fierce Elegance in Motion
+##  Footwear Carousel — Fierce Elegance in Motion
 
 “Give a girl the right shoes, and she can conquer the world.” – Marilyn Monroe
 
@@ -40,22 +40,29 @@ Footwear-Carousel/ ├── index.html # Main HTML file
                    ├── README.md # You're reading it!
                    └── LICENSE # MIT License
 
-🎥 Demo
+---
 
 ## 🎥 Demo
 
-▶️ [Click here to watch the demo video](demo.gif)
+![Gameplay Screenshot](demo.gif)
 
+---
 
 ## 🪪 License
 This project is licensed under the MIT License.
 Feel free to fork, remix, and share it with proper credits.
 🔗 LICENSE
 
+---
+
 ## ✍️ Author
 Made with 💅 and ☕ by Attreyee Biswas
 GitHub: @attreyee-tech
 
+---
+
 ## ⭐ Support
 If this project inspired you or helped in any way, don’t forget to leave a ⭐ on the repo!
 It really helps and means a lot!
+
+---
