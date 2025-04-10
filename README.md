@@ -1,4 +1,4 @@
-👠 Footwear Carousel — Fierce Elegance in Motion
+##👠 Footwear Carousel — Fierce Elegance in Motion
 
 “Give a girl the right shoes, and she can conquer the world.” – Marilyn Monroe
 
@@ -6,7 +6,7 @@ Welcome to **Footwear Carousel**, a bold blend of elegance and motion that puts 
 
 ---
 
-✨ Features
+## ✨ Features
 
 - 📸 Seamless shoe image carousel
 - 🎀 Interactive "Buy Now" & "Add to Cart" buttons
@@ -17,7 +17,7 @@ Welcome to **Footwear Carousel**, a bold blend of elegance and motion that puts 
 
 ---
 
-🎨 Live Preview
+## 🎨 Live Preview
 
 > You may be browsing, but it’ll feel like window-shopping on Rodeo Drive.
 
@@ -33,7 +33,7 @@ Welcome to **Footwear Carousel**, a bold blend of elegance and motion that puts 
 
 ---
 
-🗂 Project Structure
+## 🗂 Project Structure
 Footwear-Carousel/ ├── index.html # Main HTML file 
                    ├── style.css # Styling 
                    ├── cardimages/ # Images used in the carousel 
@@ -42,17 +42,17 @@ Footwear-Carousel/ ├── index.html # Main HTML file
 
 🎥 Demo
 
-![Footwear Carousel Demo](demo.gif)
+![Demo Video](demo.gif)
 
-🪪 License
+## 🪪 License
 This project is licensed under the MIT License.
 Feel free to fork, remix, and share it with proper credits.
 🔗 LICENSE
 
-✍️ Author
+## ✍️ Author
 Made with 💅 and ☕ by Attreyee Biswas
 GitHub: @attreyee-tech
 
-⭐ Support
+## ⭐ Support
 If this project inspired you or helped in any way, don’t forget to leave a ⭐ on the repo!
 It really helps and means a lot!
