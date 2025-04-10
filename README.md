@@ -1,4 +1,4 @@
-##👠 Footwear Carousel — Fierce Elegance in Motion
+## 👠 Footwear Carousel — Fierce Elegance in Motion
 
 “Give a girl the right shoes, and she can conquer the world.” – Marilyn Monroe
 
@@ -42,7 +42,10 @@ Footwear-Carousel/ ├── index.html # Main HTML file
 
 🎥 Demo
 
-![Demo Video](demo.gif)
+## 🎥 Demo
+
+▶️ [Click here to watch the demo video](demo.gif)
+
 
 ## 🪪 License
 This project is licensed under the MIT License.
