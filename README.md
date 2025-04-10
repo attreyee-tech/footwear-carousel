@@ -34,24 +34,24 @@ Welcome to **Footwear Carousel**, a bold blend of elegance and motion that puts 
 ---
 
 ## 🗂 Project Structure
-Footwear-Carousel/ ├── index.html # Main HTML file 
-                   ├── style.css # Styling 
-                   ├── cardimages/ # Images used in the carousel 
-                   ├── README.md # You're reading it!
-                   └── LICENSE # MIT License
+Footwear-Carousel/ ├── index.html # Main HTML file                                               
+                   ├── style.css # Styling                                                       
+                   ├── cardimages/ # Images used in the carousel                                 
+                   ├── README.md # You're reading it!                                            
+                   └── LICENSE # MIT License                                                     
 
 ---
 
 ## 🎥 Demo
 
-![Demo Video](demo.gif)
+![Demo Video](demo.gif(2))
 
 ---
 
 ## 🪪 License
 This project is licensed under the MIT License.
 Feel free to fork, remix, and share it with proper credits.
-🔗 LICENSE
+
 
 ---
 
