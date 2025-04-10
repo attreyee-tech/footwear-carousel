@@ -34,7 +34,8 @@ Welcome to **Footwear Carousel**, a bold blend of elegance and motion that puts 
 ---
 
 ## 🗂 Project Structure
-Footwear-Carousel/ ├── index.html # Main HTML file                                               
+Footwear-Carousel                                                                                
+                   ├── index.html # Main HTML file                                               
                    ├── style.css # Styling                                                       
                    ├── cardimages/ # Images used in the carousel                                 
                    ├── README.md # You're reading it!                                            
