@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+body{
+    font-family:"Cinzel", serif;
+   background: linear-gradient(270deg , #370f0f , #000);
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
+.container{
+    padding: 5rem;
+}
+.slider-wrapper{
+    position: relative;
+    max-width: 40rem;
+    margin: 0 auto; /*auto will center the slides horizontally*/
+}
+.slider{
+    display: flex;
+    aspect-ratio: 3/3;
+    overflow-x: auto;
+    scrollbar-width: none;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    box-shadow: 0 20px 50px #000;
+    border-radius: 25px;
+
+}
+.slider img{
+    flex: 1 0 100%;
+    scroll-snap-align: start;
+    object-fit: cover ;
+}
+.slider-nav{
+    display: flex;
+    column-gap: 1rem;
+    position: absolute;
+    bottom: 1.25rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+}
+.slider-nav a {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background-color: #0b0909;
+    opacity: 0.75;
+    transition: opacity ease 250ms;
+}
+.slider-nav a:hover{
+    background-color: #715022;
+}
+.shop
+{
+    display: flex;
+    justify-content: space-between;
+    gap:2rem;
+    align-items: center;
+    margin-top: 1rem;
+    flex-wrap: nowrap;
+}
+
+.buynow{
+    background-color: rgba(0, 0, 0, 0);
+   white-space: nowrap;
+    padding: 1rem 2rem;
+    margin-top:30pxpx;
+   margin-left: 260px;
+   display: flex;
+   justify-content: center;
+ 
+   align-items: center;
+   padding: 20px;
+   font-size: 1.5rem;
+   font-weight:500;
+   color: rgb(248, 252, 255);
+   
+   border:2px solid #eeb463;
+   box-shadow: 0px 1px 6px #eeb463  , inset 0px 1px 6px #eeb463;
+   border-radius: 15px;
+}
+.buynow:hover , .cart:hover{
+    transition: 0.5s ease-in-out;
+    scale:1.7;
+  
+}
+.cart{
+   white-space: nowrap;
+    margin-right: 11rem;
+    width: 200px;
+    margin-top: 0px;
+  
+   display: flex;
+   justify-content: center;
+   align-items: center;
+  
+   padding: 20px;
+   font-size: 1.5rem;
+   font-weight:500;
+   color: rgb(248, 252, 255);
+   
+   border:2px solid #eeb463;
+   box-shadow: 0px 1px 6px #eeb463  , inset 0px 1px 6px #eeb463;
+   border-radius: 15px;
+    
+    
+}
+.title{
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    font-size: 3rem;
+    font-weight: 500;
+    color: white;
+    margin-bottom: 2rem;
+}
+
